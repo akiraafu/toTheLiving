@@ -1,9 +1,9 @@
 {
-    "name": "toTheLiving",
+    "name": "totheliving",
     "version": "1.0.0",
     "description": "responsive website landingpage ",
     "main": "index.js",
-    "homepage": "https://github.com/akiraafu/toTheLiving.git",
+    "homepage": "https://akiraafu.github.io/toTheLiving",
     "scripts": {
         "deploy": "gh-pages -d dist"
     },
