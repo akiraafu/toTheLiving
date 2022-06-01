@@ -1,0 +1,15 @@
+{
+    "name": "toTheLiving",
+    "version": "1.0.0",
+    "description": "responsive website landingpage ",
+    "main": "index.js",
+    "homepage": "https://github.com/akiraafu/toTheLiving.git",
+    "scripts": {
+        "deploy": "gh-pages -d dist"
+    },
+    "author": "Junrong Fu",
+    "license": "ISC",
+    "devDependencies": {
+        "gh-pages": "^4.0.0"
+    }
+}
